@@ -55,6 +55,6 @@
 
 <img src="gif/ani2.gif"/>
 
-Ссылка на ПЗ: [SaT0t1s/RocketOM-0001/Doc/ПЗ - Торутанов Фёдор Николаевич - Космическая ракета на кислородно-метановом двигателе.pdf](https://github.com/SaT0t1s/RocketOM-0001/blob/420a514e423589857fa46f5d4c9415c28b26c698/Doc/%D0%9F%D0%97%20-%20%D0%A2%D0%BE%D1%80%D1%83%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%A4%D1%91%D0%B4%D0%BE%D1%80%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87%20-%20%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%20%D0%BD%D0%B0%20%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%BE-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE%D0%BC%20%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D0%B5.pdf)
+[Ссылка на ПЗ: Торутанов Фёдор Николаевич - Космическая ракета на кислородно-метановом двигателе](https://github.com/SaT0t1s/RocketOM-0001/blob/420a514e423589857fa46f5d4c9415c28b26c698/Doc/%D0%9F%D0%97%20-%20%D0%A2%D0%BE%D1%80%D1%83%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%A4%D1%91%D0%B4%D0%BE%D1%80%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87%20-%20%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%20%D0%BD%D0%B0%20%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%BE-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE%D0%BC%20%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D0%B5.pdf)
 
-Мой Telegram: [Telegram](https://t.me/sat0t1s)
+[Мой Telegram для связи](https://t.me/sat0t1s)
