@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/png" href="image/Rocket4.png">
+<link rel="shortcut icon" type="image/png" href="/image/Rocket4.png">
 
 <img src="image/Rocket4.png"/>
   На большинстве современных ракет используется в качестве топлива и окислителя керосин и кислород соответственно, керосин очень сильно загрязняет окружающую среду, а также является дорогим топливом. Следовательно, надо искать замену керосину.
